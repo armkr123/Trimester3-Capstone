@@ -1,0 +1,227 @@
+Country,Year,State Name,Type Of Region,Additional Info,"Peak Electricity Demand (UOM:MW(Megawatt)), Scaling Factor:1","Peak Electricity Met (UOM:MW(Megawatt)), Scaling Factor:1","Peak Electricity Demand Not Met (UOM:MW(Megawatt)), Scaling Factor:1","Percentage Of Peak Electricity Demand Not Met (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2023",ALL  INDIA,,,243271,239931,3340,1.4
+India,"Financial Year (Apr - Mar), 2023",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",65,60,5,7.7
+India,"Financial Year (Apr - Mar), 2023",Andhra Pradesh,Southern Region,,13237,13237,0,0
+India,"Financial Year (Apr - Mar), 2023",Arunachal Pradesh,North East Region,,186,186,0,0.2
+India,"Financial Year (Apr - Mar), 2023",Assam,North East Region,,2413,2413,0,0
+India,"Financial Year (Apr - Mar), 2023",Bihar,Eastern Region,,8049,7420,629,7.8
+India,"Financial Year (Apr - Mar), 2023",Chandigarh,Northern Region,,411,411,0,0
+India,"Financial Year (Apr - Mar), 2023",Chhattisgarh,Western Region,,6148,6148,0,0
+India,"Financial Year (Apr - Mar), 2023",DVC,Eastern Region,,3451,3451,0,0
+India,"Financial Year (Apr - Mar), 2023",Dadra & Nagar Haveli and Daman & Diu,Western Region,,1327,1327,0,0
+India,"Financial Year (Apr - Mar), 2023",Delhi,Northern Region,,7437,7437,0,0
+India,"Financial Year (Apr - Mar), 2023",Goa,Western Region,,776,776,0,0
+India,"Financial Year (Apr - Mar), 2023",Gujarat,Western Region,,24829,24544,285,1.1
+India,"Financial Year (Apr - Mar), 2023",Haryana,Northern Region,,13088,12844,244,1.9
+India,"Financial Year (Apr - Mar), 2023",Himachal Pradesh,Northern Region,,2181,2181,0,0
+India,"Financial Year (Apr - Mar), 2023",Jharkhand,Eastern Region,,2193,2020,173,7.9
+India,"Financial Year (Apr - Mar), 2023",Karnataka,Southern Region,,17212,17212,0,0
+India,"Financial Year (Apr - Mar), 2023",Kerala,Southern Region,,5284,5284,0,0
+India,"Financial Year (Apr - Mar), 2023",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",12,12,0,0.6
+India,"Financial Year (Apr - Mar), 2023",Madhya Pradesh,Western Region,,18252,17817,435,2.4
+India,"Financial Year (Apr - Mar), 2023",Maharashtra,Western Region,,31178,27996,3182,10.2
+India,"Financial Year (Apr - Mar), 2023",Manipur,North East Region,,258,248,10,3.8
+India,"Financial Year (Apr - Mar), 2023",Meghalaya,North East Region,,405,405,0,0
+India,"Financial Year (Apr - Mar), 2023",Mizoram,North East Region,,162,162,0,0
+India,"Financial Year (Apr - Mar), 2023",Nagaland,North East Region,,174,174,0,0.1
+India,"Financial Year (Apr - Mar), 2023",Orissa,Eastern Region,,6443,6443,0,0
+India,"Financial Year (Apr - Mar), 2023",Puducherry,Southern Region,,524,524,0,0
+India,"Financial Year (Apr - Mar), 2023",Punjab,Northern Region,,15293,15293,0,0
+India,"Financial Year (Apr - Mar), 2023",Rajasthan,Northern Region,,18128,18128,0,0
+India,"Financial Year (Apr - Mar), 2023",Sikkim,Eastern Region,,133,133,0,0.3
+India,"Financial Year (Apr - Mar), 2023",Tamil Nadu,Southern Region,,19045,19045,0,0
+India,"Financial Year (Apr - Mar), 2023",Telangana,Southern Region,,15622,15622,0,0
+India,"Financial Year (Apr - Mar), 2023",Tripura,North East Region,Excludes the supply to Bangladesh,362,362,0,0
+India,"Financial Year (Apr - Mar), 2023",UT of J&K and Ladakh,Northern Region,,3181,3133,48,1.5
+India,"Financial Year (Apr - Mar), 2023",Uttar Pradesh,Northern Region,,28704,28284,420,1.5
+India,"Financial Year (Apr - Mar), 2023",Uttarakhand,Northern Region,,2635,2405,230,8.7
+India,"Financial Year (Apr - Mar), 2023",West Bengal,Eastern Region,,11626,11626,0,0
+India,"Financial Year (Apr - Mar), 2022",ALL  INDIA,,,215888,207231,8657,4.01
+India,"Financial Year (Apr - Mar), 2022",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",62.3,62.3,0,0
+India,"Financial Year (Apr - Mar), 2022",Andhra Pradesh,Southern Region,,13167,12293,874,6.64
+India,"Financial Year (Apr - Mar), 2022",Arunachal Pradesh,North East Region,,167,167,0,0
+India,"Financial Year (Apr - Mar), 2022",Assam,North East Region,,2379,2376,3,0.12
+India,"Financial Year (Apr - Mar), 2022",Bihar,Eastern Region,,7852,6631,1221,15.55
+India,"Financial Year (Apr - Mar), 2022",Chandigarh,Northern Region,,407,407,0,0
+India,"Financial Year (Apr - Mar), 2022",Chhattisgarh,Western Region,,5399,5399,0,0
+India,"Financial Year (Apr - Mar), 2022",DVC,Eastern Region,,3402,3396,7,0.2
+India,"Financial Year (Apr - Mar), 2022",Dadra & Nagar Haveli and Daman & Diu,Western Region,,1278,1278,0,0
+India,"Financial Year (Apr - Mar), 2022",Delhi,Northern Region,,7695,7695,0,0
+India,"Financial Year (Apr - Mar), 2022",Goa,Western Region,,718,718,0,0
+India,"Financial Year (Apr - Mar), 2022",Gujarat,Western Region,,21464,21382,82,0.38
+India,"Financial Year (Apr - Mar), 2022",Haryana,Northern Region,,12768,12768,0,0
+India,"Financial Year (Apr - Mar), 2022",Himachal Pradesh,Northern Region,,2071,2071,0,0
+India,"Financial Year (Apr - Mar), 2022",Jharkhand,Eastern Region,,2253,1918,336,14.89
+India,"Financial Year (Apr - Mar), 2022",Karnataka,Southern Region,,15828,15828,0,0
+India,"Financial Year (Apr - Mar), 2022",Kerala,Southern Region,,4699,4370,329,7
+India,"Financial Year (Apr - Mar), 2022",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",12,12,0,0
+India,"Financial Year (Apr - Mar), 2022",Madhya Pradesh,Western Region,,17347,17238,109,0.63
+India,"Financial Year (Apr - Mar), 2022",Maharashtra,Western Region,,30935,28846,2089,6.75
+India,"Financial Year (Apr - Mar), 2022",Manipur,North East Region,,248,248,0,0
+India,"Financial Year (Apr - Mar), 2022",Meghalaya,North East Region,,404,404,0,0.03
+India,"Financial Year (Apr - Mar), 2022",Mizoram,North East Region,,159,159,0,0
+India,"Financial Year (Apr - Mar), 2022",Nagaland,North East Region,,168,167,1,0.48
+India,"Financial Year (Apr - Mar), 2022",Orissa,Eastern Region,,6566,6391,175,2.67
+India,"Financial Year (Apr - Mar), 2022",Puducherry,Southern Region,,501,501,0,0
+India,"Financial Year (Apr - Mar), 2022",Punjab,Northern Region,,14311,14311,0,0
+India,"Financial Year (Apr - Mar), 2022",Rajasthan,Northern Region,,17399,17206,193,1.11
+India,"Financial Year (Apr - Mar), 2022",Sikkim,Eastern Region,,124,124,0,0
+India,"Financial Year (Apr - Mar), 2022",Tamil Nadu,Southern Region,,17729,17729,0,0
+India,"Financial Year (Apr - Mar), 2022",Telangana,Southern Region,,15497,15497,0,0
+India,"Financial Year (Apr - Mar), 2022",Tripura,North East Region,Excludes the supply to Bangladesh,333,333,0,0
+India,"Financial Year (Apr - Mar), 2022",UT of J&K and Ladakh,Northern Region,,3137,2967,170,5.42
+India,"Financial Year (Apr - Mar), 2022",Uttar Pradesh,Northern Region,,27369,26589,780,2.85
+India,"Financial Year (Apr - Mar), 2022",Uttarakhand,Northern Region,,2594,2594,0,0
+India,"Financial Year (Apr - Mar), 2022",West Bengal,Eastern Region,,10125,9900,225,2.22
+India,"Financial Year (Apr - Mar), 2021",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",60.1,60.1,0,0
+India,"Financial Year (Apr - Mar), 2021",Andhra Pradesh,Southern Region,,12551,12032,519,4.14
+India,"Financial Year (Apr - Mar), 2021",Arunachal Pradesh,North East Region,,197,168,29,14.64
+India,"Financial Year (Apr - Mar), 2021",Assam,North East Region,,2126,2121,5,0.24
+India,"Financial Year (Apr - Mar), 2021",Bihar,Eastern Region,,7154,6490,664,9.28
+India,"Financial Year (Apr - Mar), 2021",Chandigarh,Northern Region,,426,426,0,0
+India,"Financial Year (Apr - Mar), 2021",Chhattisgarh,Western Region,,5019,5014,5,0.1
+India,"Financial Year (Apr - Mar), 2021",DVC,Eastern Region,,3355,3338,17,0.5
+India,"Financial Year (Apr - Mar), 2021",Dadra & Nagar Haveli,Western Region,,891,888,3,0.31
+India,"Financial Year (Apr - Mar), 2021",Daman & Diu,Western Region,,371,369,2,0.42
+India,"Financial Year (Apr - Mar), 2021",Delhi,Northern Region,,7323,7323,0,0
+India,"Financial Year (Apr - Mar), 2021",Goa,Western Region,,703,701,2,0.28
+India,"Financial Year (Apr - Mar), 2021",Gujarat,Western Region,,19451,19431,20,0.1
+India,"Financial Year (Apr - Mar), 2021",Haryana,Northern Region,,12120,12120,0,0
+India,"Financial Year (Apr - Mar), 2021",Himachal Pradesh,Northern Region,,2030,2030,0,0
+India,"Financial Year (Apr - Mar), 2021",Jharkhand,Eastern Region,,1887,1611,276,14.63
+India,"Financial Year (Apr - Mar), 2021",Karnataka,Southern Region,,14830,14818,12,0.08
+India,"Financial Year (Apr - Mar), 2021",Kerala,Southern Region,,4374,4364,10,0.23
+India,"Financial Year (Apr - Mar), 2021",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",11,11,0,0
+India,"Financial Year (Apr - Mar), 2021",Madhya Pradesh,Western Region,,15917,15917,0,0
+India,"Financial Year (Apr - Mar), 2021",Maharashtra,Western Region,,28075,28016,59,0.21
+India,"Financial Year (Apr - Mar), 2021",Manipur,North East Region,,258,258,0,0
+India,"Financial Year (Apr - Mar), 2021",Meghalaya,North East Region,,408,408,0,0
+India,"Financial Year (Apr - Mar), 2021",Mizoram,North East Region,,169,156,13,7.63
+India,"Financial Year (Apr - Mar), 2021",Nagaland,North East Region,,173,153,20,11.73
+India,"Financial Year (Apr - Mar), 2021",Orissa,Eastern Region,,5643,5643,0,0
+India,"Financial Year (Apr - Mar), 2021",Puducherry,Southern Region,,469,467,2,0.35
+India,"Financial Year (Apr - Mar), 2021",Punjab,Northern Region,,13556,13431,125,0.92
+India,"Financial Year (Apr - Mar), 2021",Rajasthan,Northern Region,,15784,15784,0,0
+India,"Financial Year (Apr - Mar), 2021",Sikkim,Eastern Region,,133,133,0,0
+India,"Financial Year (Apr - Mar), 2021",Tamil Nadu,Southern Region,,16891,16891,0,0
+India,"Financial Year (Apr - Mar), 2021",Telangana,Southern Region,,14163,14160,3,0.02
+India,"Financial Year (Apr - Mar), 2021",Tripura,North East Region,Excludes the supply to Bangladesh,328,327,1,0.27
+India,"Financial Year (Apr - Mar), 2021",UT of J&K and Ladakh,Northern Region,,3076,2826,250,8.13
+India,"Financial Year (Apr - Mar), 2021",Uttar Pradesh,Northern Region,,24965,24795,170,0.68
+India,"Financial Year (Apr - Mar), 2021",Uttarakhand,Northern Region,,2468,2468,0,0
+India,"Financial Year (Apr - Mar), 2021",West Bengal,Eastern Region,,9089,9087,2,0.03
+India,"Financial Year (Apr - Mar), 2021",all  india,,,203014,200539,2475,1.22
+India,"Financial Year (Apr - Mar), 2020",ALL  INDIA,,,190198,189395,802,0.42
+India,"Financial Year (Apr - Mar), 2020",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",58,54,4,6.9
+India,"Financial Year (Apr - Mar), 2020",Andhra Pradesh,Southern Region,,11193,11193,0,0
+India,"Financial Year (Apr - Mar), 2020",Arunachal Pradesh,North East Region,,158,149,9,5.63
+India,"Financial Year (Apr - Mar), 2020",Assam,North East Region,,2072,1987,85,4.12
+India,"Financial Year (Apr - Mar), 2020",Bihar,Eastern Region,,5995,5938,58,0.96
+India,"Financial Year (Apr - Mar), 2020",Chandigarh,Northern Region,,383,383,0,0
+India,"Financial Year (Apr - Mar), 2020",Chhattisgarh,Western Region,,4682,4682,0,0
+India,"Financial Year (Apr - Mar), 2020",DVC,Eastern Region,,3173,3173,0,0
+India,"Financial Year (Apr - Mar), 2020",Dadra & Nagar Haveli,Western Region,,889,888,1,0.07
+India,"Financial Year (Apr - Mar), 2020",Daman & Diu,Western Region,,356,355,1,0.38
+India,"Financial Year (Apr - Mar), 2020",Delhi,Northern Region,,6314,6314,0,0
+India,"Financial Year (Apr - Mar), 2020",Goa,Western Region,,612,612,0,0.07
+India,"Financial Year (Apr - Mar), 2020",Gujarat,Western Region,,18528,18483,45,0.24
+India,"Financial Year (Apr - Mar), 2020",Haryana,Northern Region,,10982,10982,0,0
+India,"Financial Year (Apr - Mar), 2020",Himachal Pradesh,Northern Region,,1932,1932,0,0
+India,"Financial Year (Apr - Mar), 2020",Jammu & Kashmir,Northern Region,,3280,2680,600,18.29
+India,"Financial Year (Apr - Mar), 2020",Jharkhand,Eastern Region,,1651,1527,124,7.5
+India,"Financial Year (Apr - Mar), 2020",Karnataka,Southern Region,,14367,14367,0,0
+India,"Financial Year (Apr - Mar), 2020",Kerala,Southern Region,,4275,4269,6,0.14
+India,"Financial Year (Apr - Mar), 2020",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",11,11,0,0
+India,"Financial Year (Apr - Mar), 2020",Madhya Pradesh,Western Region,,15756,15668,88,0.56
+India,"Financial Year (Apr - Mar), 2020",Maharashtra,Western Region,,25576,25513,63,0.24
+India,"Financial Year (Apr - Mar), 2020",Manipur,North East Region,,252,249,3,1.13
+India,"Financial Year (Apr - Mar), 2020",Meghalaya,North East Region,,384,384,0,0
+India,"Financial Year (Apr - Mar), 2020",Mizoram,North East Region,,132,132,0,0
+India,"Financial Year (Apr - Mar), 2020",Nagaland,North East Region,,160,155,5,2.94
+India,"Financial Year (Apr - Mar), 2020",Orissa,Eastern Region,,4984,4984,1,0.01
+India,"Financial Year (Apr - Mar), 2020",Puducherry,Southern Region,,429,429,0,0
+India,"Financial Year (Apr - Mar), 2020",Punjab,Northern Region,,13148,13148,0,0
+India,"Financial Year (Apr - Mar), 2020",Rajasthan,Northern Region,,14441,14441,0,0
+India,"Financial Year (Apr - Mar), 2020",Sikkim,Eastern Region,,120,120,0,0
+India,"Financial Year (Apr - Mar), 2020",Tamil Nadu,Southern Region,,16263,16263,0,0
+India,"Financial Year (Apr - Mar), 2020",Telangana,Southern Region,,13688,13688,0,0
+India,"Financial Year (Apr - Mar), 2020",Tripura,North East Region,,317,315,2,0.48
+India,"Financial Year (Apr - Mar), 2020",Uttar Pradesh,Northern Region,,23797,23747,50,0.21
+India,"Financial Year (Apr - Mar), 2020",Uttarakhand,Northern Region,,2372,2372,0,0
+India,"Financial Year (Apr - Mar), 2020",West Bengal,Eastern Region,,8846,8846,0,0
+India,"Financial Year (Apr - Mar), 2019",ALL  INDIA,,,183804,182533,1271,0.69
+India,"Financial Year (Apr - Mar), 2019",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",58,54,4,6.9
+India,"Financial Year (Apr - Mar), 2019",Andhra Pradesh,Southern Region,,10225,10207,18,0.17
+India,"Financial Year (Apr - Mar), 2019",Arunachal Pradesh,North East Region,,158,152,6,3.5
+India,"Financial Year (Apr - Mar), 2019",Assam,North East Region,,2193,1956,237,10.81
+India,"Financial Year (Apr - Mar), 2019",Bihar,Eastern Region,,5835,5789,46,0.79
+India,"Financial Year (Apr - Mar), 2019",Chandigarh,Northern Region,,431,431,0,0
+India,"Financial Year (Apr - Mar), 2019",Chhattisgarh,Western Region,,4746,4736,10,0.21
+India,"Financial Year (Apr - Mar), 2019",DVC,Eastern Region,,3014,3014,0,0
+India,"Financial Year (Apr - Mar), 2019",Dadra & Nagar Haveli,Western Region,,826,826,0,0
+India,"Financial Year (Apr - Mar), 2019",Daman & Diu,Western Region,,351,350,1,0.17
+India,"Financial Year (Apr - Mar), 2019",Delhi,Northern Region,,7409,7409,0,0
+India,"Financial Year (Apr - Mar), 2019",Goa,Western Region,,625,625,0,0
+India,"Financial Year (Apr - Mar), 2019",Gujarat,Western Region,,18437,18424,13,0.07
+India,"Financial Year (Apr - Mar), 2019",Haryana,Northern Region,,11001,11001,0,0
+India,"Financial Year (Apr - Mar), 2019",Himachal Pradesh,Northern Region,,1786,1786,0,0
+India,"Financial Year (Apr - Mar), 2019",Jammu & Kashmir & Ladakh,Northern Region,,3405,2724,681,20
+India,"Financial Year (Apr - Mar), 2019",Jharkhand,Eastern Region,,1396,1389,6,0.46
+India,"Financial Year (Apr - Mar), 2019",Karnataka,Southern Region,,13272,13258,14,0.1
+India,"Financial Year (Apr - Mar), 2019",Kerala,Southern Region,,4487,4300,186,4.15
+India,"Financial Year (Apr - Mar), 2019",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",8,8,0,0
+India,"Financial Year (Apr - Mar), 2019",Madhya Pradesh,Western Region,,14886,14855,31,0.21
+India,"Financial Year (Apr - Mar), 2019",Maharashtra,Western Region,,24550,24550,0,0
+India,"Financial Year (Apr - Mar), 2019",Manipur,North East Region,,226,218,8,3.55
+India,"Financial Year (Apr - Mar), 2019",Meghalaya,North East Region,,371,371,0,0
+India,"Financial Year (Apr - Mar), 2019",Mizoram,North East Region,,133,132,0,0.15
+India,"Financial Year (Apr - Mar), 2019",Nagaland,North East Region,,186,169,17,9.31
+India,"Financial Year (Apr - Mar), 2019",Odisha,Eastern Region,,5292,5292,0,0
+India,"Financial Year (Apr - Mar), 2019",Puducherry,Southern Region,,470,470,0,0.02
+India,"Financial Year (Apr - Mar), 2019",Punjab,Northern Region,,13606,13606,0,0
+India,"Financial Year (Apr - Mar), 2019",Rajasthan,Northern Region,,14277,14277,0,0
+India,"Financial Year (Apr - Mar), 2019",Sikkim,Eastern Region,,115,115,0,0.04
+India,"Financial Year (Apr - Mar), 2019",Tamil Nadu,Southern Region,,15727,15668,59,0.37
+India,"Financial Year (Apr - Mar), 2019",Telangana,Southern Region,,13168,13168,0,0
+India,"Financial Year (Apr - Mar), 2019",Tripura,North East Region,Excludes the supply to Bangladesh,320,311,9,2.73
+India,"Financial Year (Apr - Mar), 2019",Uttar Pradesh,Northern Region,,22599,22057,542,2.4
+India,"Financial Year (Apr - Mar), 2019",Uttarakhand,Northern Region,,2233,2233,0,0
+India,"Financial Year (Apr - Mar), 2019",West Bengal,Eastern Region,,9263,9088,175,1.89
+India,"Financial Year (Apr - Mar), 2018",ALL  INDIA,,,177022,175528,1494,0.84
+India,"Financial Year (Apr - Mar), 2018",Andaman Nicobar,Eastern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",58,54,4,6.9
+India,"Financial Year (Apr - Mar), 2018",Andhra Pradesh,Southern Region,,9459,9453,6,0.06
+India,"Financial Year (Apr - Mar), 2018",Arunachal Pradesh,North East Region,,150,148,2,1.22
+India,"Financial Year (Apr - Mar), 2018",Assam,North East Region,,1865,1809,56,3.02
+India,"Financial Year (Apr - Mar), 2018",Bihar,Eastern Region,,5115,5084,31,0.61
+India,"Financial Year (Apr - Mar), 2018",Chandigarh,Northern Region,,369,369,0,0
+India,"Financial Year (Apr - Mar), 2018",Chhattisgarh,Western Region,,4444,4270,174,3.92
+India,"Financial Year (Apr - Mar), 2018",DVC,Eastern Region,,3100,3098,2,0.06
+India,"Financial Year (Apr - Mar), 2018",Dadra & Nagar Haveli,Western Region,,816,815,1,0.07
+India,"Financial Year (Apr - Mar), 2018",Daman & Diu,Western Region,,357,356,1,0.21
+India,"Financial Year (Apr - Mar), 2018",Delhi,Northern Region,,7016,7016,0,0
+India,"Financial Year (Apr - Mar), 2018",Goa,Western Region,,596,596,0,0
+India,"Financial Year (Apr - Mar), 2018",Gujarat,Western Region,,17053,16963,90,0.53
+India,"Financial Year (Apr - Mar), 2018",Haryana,Northern Region,,10270,10270,0,0
+India,"Financial Year (Apr - Mar), 2018",Himachal Pradesh,Northern Region,,1700,1700,0,0
+India,"Financial Year (Apr - Mar), 2018",Jammu & Kashmir,Northern Region,,3080,2464,616,20
+India,"Financial Year (Apr - Mar), 2018",Jharkhand,Eastern Region,,1339,1291,48,3.58
+India,"Financial Year (Apr - Mar), 2018",Karnataka,Southern Region,,12877,12877,0,0
+India,"Financial Year (Apr - Mar), 2018",Kerala,Southern Region,,4245,4228,17,0.41
+India,"Financial Year (Apr - Mar), 2018",Lakshadweep,Southern Region,"Lakshadweep and Andaman & Nicobar Islands are stand- alone systems, power supply position of these, does not form part of regional requirement and supp",8,8,0,0
+India,"Financial Year (Apr - Mar), 2018",Madhya Pradesh,Western Region,,13815,13815,0,0
+India,"Financial Year (Apr - Mar), 2018",Maharashtra,Western Region,,23864,23254,610,2.56
+India,"Financial Year (Apr - Mar), 2018",Manipur,North East Region,,219,216,3,1.22
+India,"Financial Year (Apr - Mar), 2018",Meghalaya,North East Region,,374,372,1,0.39
+India,"Financial Year (Apr - Mar), 2018",Mizoram,North East Region,,121,119,2,1.68
+India,"Financial Year (Apr - Mar), 2018",Nagaland,North East Region,,156,138,18,11.63
+India,"Financial Year (Apr - Mar), 2018",Orissa,Eastern Region,,5357,5357,0,0
+India,"Financial Year (Apr - Mar), 2018",Puducherry,Southern Region,,440,421,19,4.26
+India,"Financial Year (Apr - Mar), 2018",Punjab,Northern Region,,12638,12638,0,0
+India,"Financial Year (Apr - Mar), 2018",Rajasthan,Northern Region,,13276,13276,0,0
+India,"Financial Year (Apr - Mar), 2018",Sikkim,Eastern Region,,106,106,0,0
+India,"Financial Year (Apr - Mar), 2018",Tamil Nadu,Southern Region,,15483,15448,35,0.23
+India,"Financial Year (Apr - Mar), 2018",Telangana,Southern Region,,10815,10815,0,0
+India,"Financial Year (Apr - Mar), 2018",Tripura,North East Region,,298,293,5,1.72
+India,"Financial Year (Apr - Mar), 2018",Uttar Pradesh,Northern Region,,20498,20062,436,2.13
+India,"Financial Year (Apr - Mar), 2018",Uttarakhand,Northern Region,,2216,2216,0,0
+India,"Financial Year (Apr - Mar), 2018",West Bengal,Eastern Region,,9130,9123,7,0.08
